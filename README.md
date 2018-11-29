@@ -8,7 +8,8 @@ npm i
 
 node app
 
-#iintroducimos la siguiente url en el navegador: localhost:3003/downloadImages
+#introducimos la siguiente url en el navegador: localhost:3003/downloadImages
+
 #Una vez que se han descargado las imágenes en public/front/src/static paramos el servidor node con CTRL + C
 
 cd public/front
