@@ -2,6 +2,8 @@ cd ~/test-images
 
 cp -r front public
 
+#Verificar que queda así public/front/
+
 rm -r front
 
 npm i
@@ -18,4 +20,4 @@ npm i
 
 npm start
 
-#En este punto se abrirá una pestaña en el navegador cargando las imágenes
+#En este punto se abrirá una pestaña en el navegador cargando las imágenes descargadas previamente
