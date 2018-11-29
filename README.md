@@ -13,7 +13,9 @@ node app
 #Una vez que se han descargado las imágenes en public/front/src/static paramos el servidor node con CTRL + C
 
 cd public/front
+
 npm i
+
 npm start
 
 #En este punto se abrirá una pestaña en el navegador cargando las imágenes
