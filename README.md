@@ -1,4 +1,4 @@
-cd ~/prueba-master
+cd ~/test-images
 
 cp -r front public
 
